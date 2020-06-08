@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Practice")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Tas8_v19")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Practice")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Practice")]
+[assembly: System.Reflection.AssemblyProductAttribute("Tas8_v19")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Tas8_v19")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
