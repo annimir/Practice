@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task5_v692g/1.0.0": {
+        "runtime": {
+          "Task5_v692g.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task5_v692g/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

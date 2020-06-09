@@ -2,7 +2,7 @@
 
 namespace Task6_v10
 {
-    class Program
+    class Sequence
     {
         static void Function(int n, long[] MasDigit)
         {

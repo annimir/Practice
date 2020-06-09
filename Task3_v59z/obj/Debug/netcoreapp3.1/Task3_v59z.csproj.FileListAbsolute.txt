@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\bin\Debug\netcoreapp3.1\Task3_v59z.exe
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\bin\Debug\netcoreapp3.1\Task3_v59z.deps.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\bin\Debug\netcoreapp3.1\Task3_v59z.runtimeconfig.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\bin\Debug\netcoreapp3.1\Task3_v59z.runtimeconfig.dev.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\bin\Debug\netcoreapp3.1\Task3_v59z.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\bin\Debug\netcoreapp3.1\Task3_v59z.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\obj\Debug\netcoreapp3.1\Task3_v59z.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\obj\Debug\netcoreapp3.1\Task3_v59z.AssemblyInfo.cs
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\obj\Debug\netcoreapp3.1\Task3_v59z.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\obj\Debug\netcoreapp3.1\Task3_v59z.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\obj\Debug\netcoreapp3.1\Task3_v59z.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\obj\Debug\netcoreapp3.1\Task3_v59z.genruntimeconfig.cache

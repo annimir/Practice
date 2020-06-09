@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\bin\Debug\netcoreapp3.1\Task4_v439.exe
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\bin\Debug\netcoreapp3.1\Task4_v439.deps.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\bin\Debug\netcoreapp3.1\Task4_v439.runtimeconfig.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\bin\Debug\netcoreapp3.1\Task4_v439.runtimeconfig.dev.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\bin\Debug\netcoreapp3.1\Task4_v439.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\bin\Debug\netcoreapp3.1\Task4_v439.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\obj\Debug\netcoreapp3.1\Task4_v439.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\obj\Debug\netcoreapp3.1\Task4_v439.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\obj\Debug\netcoreapp3.1\Task4_v439.AssemblyInfo.cs
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\obj\Debug\netcoreapp3.1\Task4_v439.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\obj\Debug\netcoreapp3.1\Task4_v439.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\obj\Debug\netcoreapp3.1\Task4_v439.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task4_v439\obj\Debug\netcoreapp3.1\Task4_v439.genruntimeconfig.cache

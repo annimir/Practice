@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\bin\Debug\netcoreapp3.1\Task5_v692g.exe
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\bin\Debug\netcoreapp3.1\Task5_v692g.deps.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\bin\Debug\netcoreapp3.1\Task5_v692g.runtimeconfig.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\bin\Debug\netcoreapp3.1\Task5_v692g.runtimeconfig.dev.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\bin\Debug\netcoreapp3.1\Task5_v692g.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\bin\Debug\netcoreapp3.1\Task5_v692g.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\obj\Debug\netcoreapp3.1\Task5_v692g.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\obj\Debug\netcoreapp3.1\Task5_v692g.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\obj\Debug\netcoreapp3.1\Task5_v692g.AssemblyInfo.cs
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\obj\Debug\netcoreapp3.1\Task5_v692g.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\obj\Debug\netcoreapp3.1\Task5_v692g.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\obj\Debug\netcoreapp3.1\Task5_v692g.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task5_v692g\obj\Debug\netcoreapp3.1\Task5_v692g.genruntimeconfig.cache
