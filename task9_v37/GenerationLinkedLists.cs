@@ -2,7 +2,7 @@
 
 namespace task9_v37
 {
-    class Program
+    class GenerationLinkedLists
     {
         static int SizeInput()
         {

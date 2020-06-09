@@ -2,7 +2,7 @@
 
 namespace Task10_v531
 {
-    class Program
+    class GenerationSequence
     {
         static int SizeInput()
         {
