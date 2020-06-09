@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\Tas8_v19\\Task8_v19.csproj",
-      "projectName": "Task8_v19",
-      "projectPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\Tas8_v19\\Task8_v19.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\Task6_v10\\Task6_v10.csproj",
+      "projectName": "Task6_v10",
+      "projectPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\Task6_v10\\Task6_v10.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\Tas8_v19\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\Task6_v10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
