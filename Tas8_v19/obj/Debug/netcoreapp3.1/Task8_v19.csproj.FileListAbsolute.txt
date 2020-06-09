@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\bin\Debug\netcoreapp3.1\Task8_v19.exe
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\bin\Debug\netcoreapp3.1\Task8_v19.deps.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\bin\Debug\netcoreapp3.1\Task8_v19.runtimeconfig.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\bin\Debug\netcoreapp3.1\Task8_v19.runtimeconfig.dev.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\bin\Debug\netcoreapp3.1\Task8_v19.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\bin\Debug\netcoreapp3.1\Task8_v19.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\obj\Debug\netcoreapp3.1\Task8_v19.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\obj\Debug\netcoreapp3.1\Task8_v19.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\obj\Debug\netcoreapp3.1\Task8_v19.AssemblyInfo.cs
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\obj\Debug\netcoreapp3.1\Task8_v19.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\obj\Debug\netcoreapp3.1\Task8_v19.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\obj\Debug\netcoreapp3.1\Task8_v19.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Tas8_v19\obj\Debug\netcoreapp3.1\Task8_v19.genruntimeconfig.cache

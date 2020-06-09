@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task10_v531/1.0.0": {
+        "runtime": {
+          "Task10_v531.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task10_v531/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

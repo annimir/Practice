@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\bin\Debug\netcoreapp3.1\Task10_v531.exe
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\bin\Debug\netcoreapp3.1\Task10_v531.deps.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\bin\Debug\netcoreapp3.1\Task10_v531.runtimeconfig.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\bin\Debug\netcoreapp3.1\Task10_v531.runtimeconfig.dev.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\bin\Debug\netcoreapp3.1\Task10_v531.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\bin\Debug\netcoreapp3.1\Task10_v531.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\obj\Debug\netcoreapp3.1\Task10_v531.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\obj\Debug\netcoreapp3.1\Task10_v531.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\obj\Debug\netcoreapp3.1\Task10_v531.AssemblyInfo.cs
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\obj\Debug\netcoreapp3.1\Task10_v531.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\obj\Debug\netcoreapp3.1\Task10_v531.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\obj\Debug\netcoreapp3.1\Task10_v531.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task10_v531\obj\Debug\netcoreapp3.1\Task10_v531.genruntimeconfig.cache

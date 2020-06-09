@@ -10,3 +10,4 @@ C:\Users\User\OneDrive - НИУ Высшая школа экономики\Пр�
 C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\obj\Debug\netcoreapp3.1\Task3_v59z.dll
 C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\obj\Debug\netcoreapp3.1\Task3_v59z.pdb
 C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\obj\Debug\netcoreapp3.1\Task3_v59z.genruntimeconfig.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Practice\Task3_v59z\obj\Debug\netcoreapp3.1\Task3_v59z.csprojAssemblyReference.cache
