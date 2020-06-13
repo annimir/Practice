@@ -65,7 +65,7 @@ namespace Task7_v17
             for (int i = 0; i < size; i++)
                 mas[i] = 1;
 
-            Print(mas, m);
+            //Print(mas, m);
 
             while (NextSet(mas, n, m))
                 Print(mas, m);

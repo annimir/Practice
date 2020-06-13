@@ -105,9 +105,9 @@ namespace Task4_v439
 
             UmComplex(u, out u1, 3);
             DelComplex(w, out w1, 2);
-            Proizved(out r, u1, u2);
+            Proizved(out r, u1, w1);
             Summa(ref r, w);
-            Razn(ref r, u2);
+            Razn(ref r, u);
             UmComplex(u, out u2, 2);
             Summa(ref r, u2);
             VchComplex(ref r, 7);

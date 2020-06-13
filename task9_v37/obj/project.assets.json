@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\task9_v37\\task9_v37.csproj",
-      "projectName": "task9_v37",
-      "projectPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\task9_v37\\task9_v37.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\task9_v37\\Task9_v37.csproj",
+      "projectName": "Task9_v37",
+      "projectPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\task9_v37\\Task9_v37.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\task9_v37\\obj\\",
       "projectStyle": "PackageReference",
@@ -53,18 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

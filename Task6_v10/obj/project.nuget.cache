@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bmUMfz/8MEkBhgMAu7CpFfzzDA0lqWypVUInN8xw9c8dcnubPXRjf55rZlQtgwCiZ11TJCKjV0zqV+LO1QgfcA==",
+  "dgSpecHash": "9+YTJvkRCl5fjbEhzspGKAlOjm3UFQ+9Pz0D+MlIsxrik0kCEK1a3zMNhPChWeH4VRezCiRWPrPaDqAINCALVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Practice\\Task6_v10\\Task6_v10.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
