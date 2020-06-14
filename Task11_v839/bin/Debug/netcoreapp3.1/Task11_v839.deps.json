@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task11_v839/1.0.0": {
+        "runtime": {
+          "Task11_v839.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task11_v839/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

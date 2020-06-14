@@ -26,7 +26,7 @@ namespace task9_v37
             Console.WriteLine("Список сгенерировался\nСписок:");
             original.PrintList();
 
-            LinkedList.MakePositivaandNegativeList(ref original, out positive, out negative);
+            LinkedList.MakePositiveAndNegativeList(ref original, out positive, out negative);
             Console.WriteLine("Оригальный список после выполнения процедуры, создающей два новых линейных списка");
             original.PrintList();
 

@@ -20,7 +20,7 @@ namespace Task10_v531
             int number = SizeInput();
 
             LinkedList original = LinkedList.MakeList(number);
-            LinkedList linked = LinkedList.MakewNewList(original, number);
+            LinkedList linked = LinkedList.MakeNewList(original, number);
 
             Console.WriteLine("Список сгенерировался\nСписок:");
             original.PrintList();

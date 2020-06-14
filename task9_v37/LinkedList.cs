@@ -30,7 +30,7 @@ namespace task9_v37
         public bool IsEmpty { get { return count == 0; } }
 
         // добавление элемента
-        public void Add(int data)
+       public void Add(int data)
         {
             Node node = new Node(data);
 
@@ -149,7 +149,7 @@ namespace task9_v37
             return list;
         }
 
-        public static void MakePositivaandNegativeList(ref LinkedList original, out LinkedList positive, out LinkedList negative)
+        public static void MakePositiveAndNegativeList(ref LinkedList original, out LinkedList positive, out LinkedList negative)
         {
             positive = new LinkedList();
             negative = new LinkedList();

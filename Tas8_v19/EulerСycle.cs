@@ -56,7 +56,11 @@ namespace Tas8_v19
             int size = SizeInput();
             matrix = MatrixInput(size);
 
-            List<int> deg = new List<int>(size);
+            List<int> deg = new List<int>();
+            for(int i = 0; i < size; i++)
+            {
+                deg.Add(0);
+            }
 
             for(int i = 0; i < size; i++)
             {
@@ -76,7 +80,7 @@ namespace Tas8_v19
 
             for (int i = 0; i < size; ++i)
             {
-                if ((deg[i] & 1) == 0)
+                if ((deg[i] & 1) != 0)
                 {
                     if (v1 == -1)
                     {
@@ -167,11 +171,11 @@ namespace Tas8_v19
             // Если граф несвязный
             if (linked)
             {
-                Console.WriteLine("Даннаый граф не соддержит эйлеров цикл");
+                Console.WriteLine("Данный граф не содержит эйлеров цикл");
             }
             else
             {
-                Console.WriteLine("Данный граф соддержит эйлеров цикл");
+                Console.WriteLine("Данный граф содержит эйлеров цикл");
                 for(int i = 0; i < res.Count; i++)
                 {
                     Console.Write($"{res[i] + 1} ");

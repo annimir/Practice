@@ -141,7 +141,7 @@ namespace Task10_v531
         public static LinkedList MakeList(int size)
         {
             LinkedList list = new LinkedList();
-            for (int i = 2; i <= size; i++)
+            for (int i = 1; i <= size; i++)
             {
                 list.Add(i);
             }
@@ -149,7 +149,7 @@ namespace Task10_v531
             return list;
         }
 
-        public static LinkedList MakewNewList(LinkedList original, int number)
+        public static LinkedList MakeNewList(LinkedList original, int number)
         {
             LinkedList list = new LinkedList();
             foreach(var item in original)
