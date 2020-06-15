@@ -47,7 +47,7 @@
 </p>
 <p align="center">
   <img src="https://github.com/Anni-HSE/Practice/blob/master/Task3_v59z/%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg?raw=true" width="256" height="314">
-<a href="https://github.com/Anni-HSE/Practice/tree/master/Task3_v59z"><i>Решение</i></a>  
+<p><a href="https://github.com/Anni-HSE/Practice/tree/master/Task3_v59z"><i>Решение</i></a></p>  
 
 <H2><p align="center"> Задача 4 </p></H2> 
 
@@ -98,7 +98,7 @@
   
 <p align="center">
   <img src="https://github.com/Anni-HSE/Practice/blob/master/Task5_v692g/%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg?raw=true" width="168" height="192">
-<a href="https://github.com/Anni-HSE/Practice/tree/master/Task5_v692g"><i>Решение</i></a>  
+<p><a href="https://github.com/Anni-HSE/Practice/tree/master/Task5_v692g"><i>Решение</i></a></p>  
 
  <H2><p align="center"> Задача 6 </p></H2>
   
@@ -134,7 +134,7 @@
  
  <p align="center">
   <img src="https://github.com/Anni-HSE/Practice/blob/master/task9_v37/%D1%81%D0%BA%D1%80%D0%B8%D0%BD.jpg?raw=true" width="550" height="347">
-<a href="https://github.com/Anni-HSE/Practice/tree/master/task7_v37"><i>Решение</i></a>    
+<p><a href="https://github.com/Anni-HSE/Practice/tree/master/task9_v37"><i>Решение</i></a></p>    
   
  <H2><p align="center"> Задача 10 </p></H2>
   
@@ -146,7 +146,7 @@
  
 <p align="center">
    <img src="https://github.com/Anni-HSE/Practice/blob/master/Task10_v531/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA.jpg?raw=true" width="309" height="42">
-<a href="https://github.com/Anni-HSE/Practice/tree/master/Task10_v531"><i>Решение</i></a>   
+<p><a href="https://github.com/Anni-HSE/Practice/tree/master/Task10_v531"><i>Решение</i></a></p>   
 
 <H2><p align="center"> Задача 11 </p></H2>
    
