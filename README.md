@@ -18,6 +18,7 @@
 <p>
   Программа должна выполняться не более чем за 0.4 секунды и требовать не более чем 16 МБ памяти.
 </p>
+<a href="https://github.com/Anni-HSE/Practice/tree/master/Task1_v67"><i>Решение</i></a>
 
 <H2><p align="center"> Задача 2 </p></H2> 
 
@@ -36,6 +37,7 @@
 <p>
   Программа должна выполняться не более чем за 1 секунду и требовать не более чем 16 МБ памяти.
 </p>
+<a href="https://github.com/Anni-HSE/Practice/tree/master/Task2_v816"><i>Решение</i></a>
 
 <H2><p align="center"> Задача 3 </p></H2> 
 
@@ -45,6 +47,7 @@
 </p>
 <p align="center">
   <img src="https://github.com/Anni-HSE/Practice/blob/master/Task3_v59z/%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg?raw=true" width="256" height="314">
+<a href="https://github.com/Anni-HSE/Practice/tree/master/Task3_v59z"><i>Решение</i></a>  
 
 <H2><p align="center"> Задача 4 </p></H2> 
 
@@ -85,6 +88,7 @@
     <td>Умножение комплексных</td>
   </tr>
 </table>
+<a href="https://github.com/Anni-HSE/Practice/tree/master/Task4_v439"><i>Решение</i></a>  
 
 <H2><p align="center"> Задача 5 </p></H2> 
 
@@ -94,7 +98,8 @@
   
 <p align="center">
   <img src="https://github.com/Anni-HSE/Practice/blob/master/Task5_v692g/%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg?raw=true" width="168" height="192">
-  
+<a href="https://github.com/Anni-HSE/Practice/tree/master/Task5_v692g"><i>Решение</i></a>  
+
  <H2><p align="center"> Задача 6 </p></H2>
   
  <p align="justify">
@@ -102,18 +107,21 @@
     Построить N элементов последовательности проверить, образуют ли элементы, стоящие на четных местах, 
     возрастающую подпоследовательность.
  </p>
-    
+ <a href="https://github.com/Anni-HSE/Practice/tree/master/Task6_v10"><i>Решение</i></a>   
+  
  <H2><p align="center"> Задача 7 </p></H2>
   
  <p align="justify">
     Сгенерировать все сочетания из N элементов по K с повторениями и выписать их в лексикографическом порядке.
  </p> 
+ <a href="https://github.com/Anni-HSE/Practice/tree/master/Task7_v17"><i>Решение</i></a>   
  
   <H2><p align="center"> Задача 8 </p></H2>
   
  <p align="justify">
     Эйлеров граф задан матрицей смежностей. Найти в нем какой-либо эйлеров цикл. 
  </p>
+ <a href="https://github.com/Anni-HSE/Practice/tree/master/Tas8_v19"><i>Решение</i></a>   
  
  <H2><p align="center"> Задача 9 </p></H2>
   
@@ -122,10 +130,11 @@
     список, включающий все положительные значения из элементов исходного списка, и список, включающий 
     все отрицательные значение из элементов исходного списка; при включении элементов в новые списки, 
     они удаляются из исходного списка.
- </p>
+ </p> 
  
  <p align="center">
   <img src="https://github.com/Anni-HSE/Practice/blob/master/task9_v37/%D1%81%D0%BA%D1%80%D0%B8%D0%BD.jpg?raw=true" width="550" height="347">
+<a href="https://github.com/Anni-HSE/Practice/tree/master/task7_v37"><i>Решение</i></a>    
   
  <H2><p align="center"> Задача 10 </p></H2>
   
@@ -137,7 +146,8 @@
  
 <p align="center">
    <img src="https://github.com/Anni-HSE/Practice/blob/master/Task10_v531/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA.jpg?raw=true" width="309" height="42">
-  
+<a href="https://github.com/Anni-HSE/Practice/tree/master/Task10_v531"><i>Решение</i></a>   
+
 <H2><p align="center"> Задача 11 </p></H2>
    
 <p align="justify">
@@ -149,7 +159,8 @@
 </p>
 <p>a)	зашифровать данный текст;</p>
 <p>b)	расшифровать данный текст.</p>
-  
+<a href="https://github.com/Anni-HSE/Practice/tree/master/Task11_v839"><i>Решение</i></a>   
+
 <H2><p align="center"> Задача 12 </p></H2>  
 
 <p align="justify">
@@ -184,3 +195,4 @@
 <p align="justify">
    2.	Сортировка слиянием.
 </p>
+<a href="https://github.com/Anni-HSE/Practice/tree/master/Task12_v4,5"><i>Решение</i></a>   
